@@ -1,4 +1,4 @@
-# first-project
+# first-project (awesome)
 
 For yandex prakticum
 
